@@ -7,4 +7,11 @@ public class Principal {
     private Principal() {
     }
 
+    private static class string {
+
+        public string() {
+        }
+    }
+    
+
  
