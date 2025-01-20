@@ -34,6 +34,10 @@ public class ProdutosDAO {
         
         return listagem;
     }
+
+    void venderProduto(int produtoId) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
     
     
     
