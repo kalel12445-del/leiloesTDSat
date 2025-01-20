@@ -45,4 +45,8 @@ public class ProdutosDTO {
         this.status = status;
     }
     
+    public void venderProduto(ProdutosDTO p) {
+        //...
+    }
+    
 }
